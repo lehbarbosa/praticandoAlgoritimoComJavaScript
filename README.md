@@ -1,6 +1,6 @@
 # Praticando Algoritmo com JavaScript
 
-Esse repositósio não é bem um projeto específico, em algo, mas um prática em algoritmo simples até uns mais avançados em programação onde os mesmo pode ser usado com outras linguagem de programção, é essencial para aprimorar
+Esse repositósio não é bem um projeto específico, em algo, mas uma prática em algoritmo simples até uns mais avançados em programação onde os mesmo pode ser usado com outras linguagem de programção, é essencial para aprimorar
 habilidades de codificação, lógica e resolução de problemas. A prática constante em exercícios diversificados é fundamental para construir confiança e competência na linguagem, permitindo aos programadores enfrentar projetos mais 
 ambiciosos e desafiadores no desenvolvimento web e de aplicativos.
 
